@@ -1,8 +1,11 @@
-# React + Vite + Mantine
+🚀 Simple Todo.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Vite + React + Mantine
 
-Currently, two official plugins are available:
+App Simple Todo is a free app, crafted with Vite and React, and styled with the Mantine. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+⚡️ Quick & Responsive: Thanks to Vite and React, Simple Todo is lightning-fast and responsive. 
+🎨 Stylish UI: Mantine UI adds a touch of class to your daily tasks. 
+📊 Realistic Data: Fetched todos seamlessly from JSONPlaceholder for realistic testing. 
+💾 Save Your Tasks: Your todos are saved in local storage, so you never lose your progress.
