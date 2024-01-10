@@ -1,4 +1,4 @@
-## 🚀 Simple Todo.
+## 🚀 Simple Todo
 
 ### Vite + React + Mantine
 
