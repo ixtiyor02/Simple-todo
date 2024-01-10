@@ -1,6 +1,6 @@
-🚀 Simple Todo.
+##🚀 Simple Todo.
 
-## Vite + React + Mantine
+### Vite + React + Mantine
 
 App Simple Todo is a free app, crafted with Vite and React, and styled with the Mantine. 
 
